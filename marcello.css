@@ -1,0 +1,98 @@
+body{
+    width: 100%;
+    margin:0;
+    font-family: "Didact Gothic", sans-serif;
+    color: #FFFFFF;
+    font-size: 3vw;
+
+}
+
+.slide{
+    background-color: #005EFF;
+    height: 53.23vw;
+    padding:5.21vw;
+
+}
+nav{
+    height:70px;
+    display:flex;
+    text-align: center;
+    justify-content: space-between;
+
+}
+
+#box1{
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+
+#box2{
+    display: flex;
+    align-items: center;
+    font-size: 50%;
+    width:20.83vw;
+    justify-content: space-between;
+
+}
+
+.link{
+    text-decoration: none;
+    color:#FFFFFF;
+}
+
+.link:hover{
+    text-decoration: underline;
+}
+
+#titolo{
+    text-align: center;
+    padding: 15vw 0px;
+}
+
+.titolo2{
+    height:30px;
+}
+
+.boxpar{
+    display:flex;
+    padding:7.81vw 0px;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.boxpar div{
+    line-height:150%;
+    height: 800px;
+    width: 100%;
+    
+}
+
+#conclusione{
+    height:70%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#lista{
+    height: 30%;
+    display: flex;
+    justify-content: space-between;
+
+}
+#boxarg{
+    display:flex;
+    flex-direction: column; 
+}
+
+#tag{
+    display: flex;
+    flex-direction: column;
+}
+
+#firma{
+    display: flex;
+    align-items:flex-start;
+}
